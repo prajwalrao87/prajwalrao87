@@ -1,3 +1,4 @@
+![logo](https://github.com/prajwalrao87/prajwalrao87/blob/main/Prajwal%20rao.png)
 <h1 align="center">Hi 👋, I'm Prajwal rao</h1>
 <h3 align="center">A passionate AI & ML Engineer from India</h3>
 
