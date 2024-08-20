@@ -79,13 +79,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalrao87&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalrao87&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalrao87&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prajwalrao87&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalrao87&" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalrao87&theme=radical" alt="GitHub Streak" />
 </p>
