@@ -70,11 +70,11 @@
         <br>Pandas
       </td>
       <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="65" height="65" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="65" height="65" />
         <br>Scikit-Learn
       </td>
       <td align="center" width="96">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="65" height="65" />
+          <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="65" height="65" />
         <br>Seaborn
       </td>
       <td align="center" width="96">
@@ -84,6 +84,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
