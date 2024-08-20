@@ -50,11 +50,11 @@
         <br>C
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
         <br>CSS3
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="65" height="65" />
         <br>Figma
       </td>
       <td align="center" width="96">
@@ -62,28 +62,29 @@
         <br>JavaScript
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="65" height="65" />
         <br>Python
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="Pandas" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
         <br>Pandas
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/sklearn-icon.svg" alt="Scikit-Learn" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="Scikit-Learn" width="65" height="65" />
         <br>Scikit-Learn
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/seaborn-icon.svg" alt="Seaborn" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/seaborn/seaborn-original.svg" alt="Seaborn" width="65" height="65" />
         <br>Seaborn
       </td>
       <td align="center" width="96">
-          <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" />
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
         <br>TensorFlow
       </td>              
     </tr>
   </table>
 </div>
+
 
 
 
