@@ -41,38 +41,50 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-%23006BB6.svg?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  </a>
-</p>
+<h2 align="center">Languages and Tools:</h2>
+<div style="display: flex; align-items: flex-start; justify-content: center;">
+  <table align="center">
+    <tr>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/c-icon.svg" alt="C" width="65" height="65" />
+        <br>C
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/css3-icon.svg" alt="CSS3" width="65" height="65" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/figma-icon.svg" alt="Figma" width="65" height="65" />
+        <br>Figma
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <br>Python
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/pandas-icon.svg" alt="Pandas" width="65" height="65" />
+        <br>Pandas
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/sklearn-icon.svg" alt="Scikit-Learn" width="65" height="65" />
+        <br>Scikit-Learn
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/seaborn-icon.svg" alt="Seaborn" width="65" height="65" />
+        <br>Seaborn
+      </td>
+      <td align="center" width="96">
+          <img src="https://techstack-generator.vercel.app/tensorflow-icon.svg" alt="TensorFlow" width="65" height="65" />
+        <br>TensorFlow
+      </td>              
+    </tr>
+  </table>
+</div>
+
 
 ---
 
